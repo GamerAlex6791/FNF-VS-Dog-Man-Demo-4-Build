@@ -1,0 +1,86 @@
+{
+	"storyName": "A Custom Story",
+	"difficulties": "normal",
+	"hideFreeplay": false,
+	"weekBackground": "dogmanbook1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week7",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dogman",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"New Friend",
+			"dogman",
+			[
+				0,
+				33,
+				173
+			]
+		],
+		[
+			"Dog Man is Go!",
+			"dogman",
+			[
+				0,
+				33,
+				173
+			]
+		],
+		[
+			"Brawl Of The Wild",
+			"peteycon",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Cat Chase",
+			"peteycon",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Captured",
+			"petey",
+			[
+				255,
+				120,
+				20
+			]
+		],
+		[
+			"Evil Schemes",
+			"peteycon",
+			[
+				255,
+				160,
+				0
+			]
+		],
+		[
+			"Goodbye Rat",
+			"peteybye",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Dog Man's Week",
+	"hiddenUntilUnlocked": false
+}

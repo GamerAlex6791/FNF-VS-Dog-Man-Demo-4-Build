@@ -1,0 +1,36 @@
+{
+	"dialogue": [
+		{
+			"sound": "bftalking",
+			"speed": 0.05,
+			"portrait": "bfd",
+			"boxState": "pixel",
+			"expression": "talk",
+			"text": "Hey, Girlfriend. I found these Dog Man books we read when we were kids. Wanna Take a look?"
+		},
+		{
+			"sound": "gftalking",
+			"speed": 0.05,
+			"portrait": "gfd",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Sure! Let's look at them. They look interesting"
+		},
+		{
+			"sound": "bftalking",
+			"speed": 0.05,
+			"portrait": "bfd",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "AHHHH!!!! WHAT IS HAPPENI-"
+		},
+		{
+			"sound": "bftalking",
+			"speed": 0.05,
+			"portrait": "bfd",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Huh? What is this world. IT kinda looks like the Dog Man universe!"
+		}
+	]
+}

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Background.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="CDance0000" x="20" y="20" width="1250" height="463" frameX="0" frameY="-24" frameWidth="1250" frameHeight="487"/>
+	<SubTexture name="CDance0001" x="20" y="20" width="1250" height="463" frameX="0" frameY="-24" frameWidth="1250" frameHeight="487"/>
+	<SubTexture name="CDance0002" x="1290" y="20" width="1243" height="469" frameX="-7" frameY="-18" frameWidth="1250" frameHeight="487"/>
+	<SubTexture name="CDance0003" x="1290" y="20" width="1243" height="469" frameX="-7" frameY="-18" frameWidth="1250" frameHeight="487"/>
+	<SubTexture name="CDance0004" x="2553" y="20" width="1223" height="484" frameX="-27" frameY="-3" frameWidth="1250" frameHeight="487"/>
+	<SubTexture name="CDance0005" x="2553" y="20" width="1223" height="484" frameX="-27" frameY="-3" frameWidth="1250" frameHeight="487"/>
+	<SubTexture name="CDance0006" x="20" y="524" width="1219" height="487" frameX="-31" frameY="0" frameWidth="1250" frameHeight="487"/>
+	<SubTexture name="CDance0007" x="20" y="524" width="1219" height="487" frameX="-31" frameY="0" frameWidth="1250" frameHeight="487"/>
+	<SubTexture name="CDance0008" x="1259" y="524" width="1219" height="487" frameX="-31" frameY="0" frameWidth="1250" frameHeight="487"/>
+	<SubTexture name="CDance0009" x="1259" y="524" width="1219" height="487" frameX="-31" frameY="0" frameWidth="1250" frameHeight="487"/>
+	<SubTexture name="CDance0010" x="2498" y="524" width="1219" height="487" frameX="-31" frameY="0" frameWidth="1250" frameHeight="487"/>
+	<SubTexture name="CDance0011" x="2498" y="524" width="1219" height="487" frameX="-31" frameY="0" frameWidth="1250" frameHeight="487"/>
+	<SubTexture name="CDance0012" x="20" y="1031" width="1219" height="487" frameX="-31" frameY="0" frameWidth="1250" frameHeight="487"/>
+	<SubTexture name="CDance0013" x="1259" y="1031" width="1219" height="487" frameX="-31" frameY="0" frameWidth="1250" frameHeight="487"/>
+	<SubTexture name="CDance0014" x="2498" y="1031" width="1219" height="487" frameX="-31" frameY="0" frameWidth="1250" frameHeight="487"/>
+</TextureAtlas>

@@ -1,0 +1,4 @@
+show and hides the gf
+
+value1 = invisble = 1
+value2 = visible = 1

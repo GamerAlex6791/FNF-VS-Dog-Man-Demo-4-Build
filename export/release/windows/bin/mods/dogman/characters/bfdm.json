@@ -1,0 +1,236 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				26,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left0"
+		},
+		{
+			"offsets": [
+				61,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down0"
+		},
+		{
+			"offsets": [
+				22,
+				34
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up0"
+		},
+		{
+			"offsets": [
+				-4,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right0"
+		},
+		{
+			"offsets": [
+				38,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "LMiss"
+		},
+		{
+			"offsets": [
+				53,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "DMiss"
+		},
+		{
+			"offsets": [
+				20,
+				34
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "UMiss"
+		},
+		{
+			"offsets": [
+				24,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "RMiss"
+		},
+		{
+			"offsets": [
+				38,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss-alt",
+			"indices": [],
+			"name": "LMiss"
+		},
+		{
+			"offsets": [
+				53,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss-alt",
+			"indices": [],
+			"name": "DMiss"
+		},
+		{
+			"offsets": [
+				20,
+				34
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss-alt",
+			"indices": [],
+			"name": "UMiss"
+		},
+		{
+			"offsets": [
+				24,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss-alt",
+			"indices": [],
+			"name": "RMiss"
+		},
+		{
+			"offsets": [
+				46,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "Hey"
+		},
+		{
+			"offsets": [
+				35,
+				59
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "BeatboxU"
+		},
+		{
+			"offsets": [
+				124,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "BeatboxD"
+		},
+		{
+			"offsets": [
+				50,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "BeatboxR"
+		},
+		{
+			"offsets": [
+				125,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "BeatboxL"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "is",
+			"indices": [
+				0
+			],
+			"name": "Idle0"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/BFDM_Assets",
+	"position": [
+		100,
+		520
+	],
+	"healthicon": "bfdogman",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		0,
+		95
+	],
+	"camera_position": [
+		-10,
+		-40
+	],
+	"sing_duration": 8.19999999999999,
+	"scale": 1,
+	"_editor_isPlayer": true
+}
